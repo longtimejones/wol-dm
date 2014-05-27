@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<network>
+  <server name="htpc">
+    <mac_address>ABC123456789</mac_address>
+    <ip_address>127.0.0.1</ip_address>
+    <subnet_mask>255.255.255.0</subnet_mask>
+    <port_number>7</port_number>
+    <time_out>300</time_out>
+    <resources>
+      <resource>
+        <device_name>Z</device_name>
+        <computer_name>htpc</computer_name>
+        <share_name>share</share_name>
+        <persistent>no</persistent>
+      </resource>
+    </resources>
+  </server>
+</network>
