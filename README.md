@@ -1,4 +1,4 @@
-# ${1:WOL DM}
+# WOL DM
 
 Wake-on-LAN Drive mapper
 
